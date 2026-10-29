@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Meu Diário de TI",
+  "short_name": "Diário de TI",
+  "description": "Pequenos passos todos os dias.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#10170F",
+  "theme_color": "#10170F",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
